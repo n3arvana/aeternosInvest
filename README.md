@@ -19,7 +19,7 @@ O projeto foi desenvolvido com foco na aplicação prática do Excel para cálcu
 - Distribuir o valor disponível entre categorias de FIIs conforme o perfil selecionado.
 - Demonstrar a aplicação de fórmulas financeiras e ferramentas de busca no Excel.
 
-## ⚙️ Funcionalidades
+##  Funcionalidades
 
 ### 1. Configurações financeiras
 
